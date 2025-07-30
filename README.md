@@ -1,11 +1,43 @@
-# Comandos para instalar o bot!
-
 ![Logo](https://files.catbox.moe/o2wroe.jpg)
 
-### 🔧 Instalar dependências
+# Comandos para instalar o bot!
+
+### BASICO:
 
 ```bash
-npm install
+cd /sdcard/
 ```
 ```bash
-npm install
+git clone 
+
+### 🔧 Pacotes:
+
+```bash
+apt-get upgrade
+```
+```bash
+apt-get update
+```
+```bash
+apt upgrade -y
+```
+```bash
+apt update -y
+```
+```bash
+apt install nodejs -y
+```
+```bash
+apt install nodejs-lts -y
+```
+```bash
+apt install ffmpeg -y
+```
+```bash
+apt install wget -y
+```
+```bash
+apt install git -y
+```
+##LIGAR O BOT:
+
