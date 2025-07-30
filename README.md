@@ -8,7 +8,8 @@
 cd /sdcard/
 ```
 ```bash
-git clone 
+git clone https://github.com/Siixdograujs/Tony-base.git
+```
 
 ### 🔧 Pacotes:
 
@@ -40,4 +41,11 @@ apt install wget -y
 apt install git -y
 ```
 ##LIGAR O BOT:
+```bash
+sh start.sh
+```
+## Ou
 
+```bash
+npm start
+```
