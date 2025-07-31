@@ -42,7 +42,7 @@ apt install wget -y
 ```bash
 apt install git -y
 ```
-##LIGAR O BOT:
+LIGAR O BOT:
 ```bash
 sh start.sh
 ```
