@@ -46,7 +46,7 @@ LIGAR O BOT:
 ```bash
 sh start.sh
 ```
-## Ou
+Ou
 
 ```bash
 npm start
