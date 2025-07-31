@@ -10,7 +10,9 @@ cd /sdcard/
 ```bash
 git clone https://github.com/Siixdograujs/Tony-base.git
 ```
-
+```bash
+cd /sdcard/tony-base
+```
 ### 🔧 Pacotes:
 
 ```bash
